@@ -12,7 +12,7 @@ title                    : "Oren Min / Homepage"
 title_separator          : "-"
 name                     : &name "Oren Min"
 description              : &description "21 UCAS"
-url                      : https://zawadesu.github.io"
+url                      : "https://zawadesu.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Zawadesu/zawadesu.github.io"
 
